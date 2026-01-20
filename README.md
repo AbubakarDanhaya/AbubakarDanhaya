@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm ABUBAKAR MUHAMMAD DANHAYA
 
   ## About Me
- A driven and ambitious STEM professional dedicated to make meaningful impact through innovation and leadership with a passion for growth and a commitment to excellence, I thrive in dynamic environments where I can
- leverage my skills to drive positive change.
-  I am passionate about Civil Engineering and leveraging Data Science and Machine Learning to analyze materials and concrete structures, making meaningful predictions.
+ A driven and ambitious STEM professional dedicated to making meaningful impact through innovation and leadership, with a strong passion for growth and a commitment to excellence. I thrive in dynamic environments where I can leverage my skills to drive positive change.
+
+I am passionate about Civil Engineering and leveraging Data Science and Machine Learning to analyze materials and concrete structures, enabling meaningful predictions and informed engineering decisions. This interest is reflected in my [ML4CivilEngineers](https://github.com/AbubakarDanhaya/ML4CivilEngineers) journey, which documents my transition from core Python fundamentals to data-driven and research-oriented machine learning applications, with a focus on interpretable solutions for structural health monitoring and infrastructure assessment.
   
   🎓 **Education:** 
       
   - First-Class B.Eng in Civil Engineering, Kano University of Science and Technology Wudil (2024) 
-  - Best Graduating Student (Faculty of Engineering, 2024)  
+  - Overall Best Graduating Student (2024)
+ 
     
   💼 **Experience:** 
      
@@ -16,12 +17,17 @@
   - Consulting Engineer, Ministry of Works and Transport Gombe (NYSC)
   - Data Science Fellow, Arewa Data Science Academy  
       
-- Researcher in **Structures and Materials** & **Machine Learning for Concrete Analysis**
-
+  - Researcher in **Structures and Materials** & **Machine Learning for Concrete Analysis**
+  
 📌 **Interests:**  
-- Geotechnical & Structural Engineering  
+- Structural Engineering  
 - AI & Machine Learning in Civil Engineering  
 - Data Visualization & Storytelling 
+
+🌱 **ML4CivilEngineers Journey**
+
+[ML4CivilEngineers](https://github.com/AbubakarDanhaya/ML4CivilEngineers) reflects my transition from civil engineering to machine learning–driven engineering. It documents my growth from Python fundamentals to data analysis and ML/DL concepts, with a focus on practical, interpretable applications in structural health monitoring and infrastructure assessment.
+
 
 🚀 **Projects:**  
 - [World Population Dynamics](https://github.com/HABUDANHAYABK/world-population-dynamics)  
